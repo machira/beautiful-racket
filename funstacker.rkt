@@ -1,10 +1,3 @@
-;#lang reader stacker-demo/stacker
-;4
-;8
-;+
-;3
-;*
-
 #lang br/quicklang
 
 (define (read-syntax path port)
